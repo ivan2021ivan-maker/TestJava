@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 22 14:28:31 HKT 2021
+commons-logging-1.2-sources.jar>central=
+commons-logging-1.2.pom>jboss-ga-repository=
+commons-logging-1.2.jar>jboss-ga-repository=

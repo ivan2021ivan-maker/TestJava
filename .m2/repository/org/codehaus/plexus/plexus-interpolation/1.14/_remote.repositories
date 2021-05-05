@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 22 11:08:30 HKT 2021
+plexus-interpolation-1.14.jar>jboss-ga-plugin-repository=
+plexus-interpolation-1.14.pom>jboss-ga-plugin-repository=

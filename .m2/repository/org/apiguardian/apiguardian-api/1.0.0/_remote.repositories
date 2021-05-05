@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 22 11:09:38 HKT 2021
+apiguardian-api-1.0.0.pom>jboss-ga-repository=
+apiguardian-api-1.0.0.jar>jboss-ga-repository=
+apiguardian-api-1.0.0-sources.jar>central=

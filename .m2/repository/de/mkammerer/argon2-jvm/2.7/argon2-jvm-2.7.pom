@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>de.mkammerer</groupId>
+  <artifactId>argon2-jvm</artifactId>
+  <version>2.7</version>
+  <name>Argon2 JVM</name>
+  <description>Argon2 Binding for the JVM</description>
+  <url>https://github.com/phxql/argon2-jvm</url>
+  <licenses>
+    <license>
+      <name>GNU Lesser General Public License, Version 3</name>
+      <url>https://www.gnu.org/licenses/lgpl-3.0.en.html</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Moritz Kammerer</name>
+      <email>kammerer.moritz@gmail.com</email>
+      <url>https://www.mkammerer.de/</url>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/phxql/argon2-jvm.git</connection>
+    <developerConnection>scm:git:git://github.com/phxql/argon2-jvm.git</developerConnection>
+    <url>https://github.com/phxql/argon2-jvm</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>net.java.dev.jna</groupId>
+      <artifactId>jna</artifactId>
+      <version>5.5.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
